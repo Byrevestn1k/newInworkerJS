@@ -1,0 +1,22 @@
+.rubrica {
+    // .rubrica__discription
+
+    &__discription {
+        display: flex;
+        border-radius: 10px;
+        box-shadow: 3px 2px 7px #3297b7;
+        padding: 10px;
+        margin: 10px;
+        justify-content: center;
+        align-items: center;
+    }
+    &__content {
+        padding: 10px;
+    }
+    .image img {
+        // height: 200px;
+        // width: 200px;
+
+        // float: right;
+    }
+}

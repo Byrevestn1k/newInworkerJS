@@ -1,0 +1,19 @@
+@import url(./header.css);
+@import url(./nav.css);
+@import url(./content.css);
+@import url(./footer.css);
+@import url(./scss/coments.css);
+@import url(./scss/vidgets.css);
+@import url(./scss/footer.css);
+@import url(./adaptive.css);
+@import url(./scss/rubrica.css);
+.container {
+    max-width: 1310px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
+
+.hidden {
+    display: none;
+}

@@ -1,0 +1,9 @@
+.vidgets {
+    margin: 20px -10px;
+    display: flex;
+    flex-direction: column;
+
+    &__item {
+        margin: 10px;
+    }
+}

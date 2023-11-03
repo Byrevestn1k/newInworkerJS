@@ -1,0 +1,8 @@
+.vidgets {
+  margin: 20px -10px;
+  display: flex;
+  flex-direction: column;
+}
+.vidgets__item {
+  margin: 10px;
+}/*# sourceMappingURL=vidgets.css.map */
